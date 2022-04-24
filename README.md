@@ -1,3 +1,5 @@
+# Marja is trying to use R and github in RStudio
+
 # GGPLOT2 Workshop
 This GitHub repo is meant to accompany the R ggplot2 workshop from Jasper Ridge data management &amp; publishing series, organized by Dr. Bryan Juarez. This module is led by (future Dr.) Kirsten Isabel Verster.
 
